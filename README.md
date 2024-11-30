@@ -1,3 +1,5 @@
+[MacOs + External library(mlx)]
+
 **Overview**
 
 Minirt is a simple ray tracing renderer developed in C using MiniLibX for macOS. It renders 3D scenes described in .rt files by simulating the physics of light interacting with geometric objects such as planes, spheres, and cylinders.
